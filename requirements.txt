@@ -1,0 +1,6 @@
+requests
+bitcoinlib
+ecdsa
+base58
+bit
+bip_utils

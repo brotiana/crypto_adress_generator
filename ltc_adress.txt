@@ -1,0 +1,23 @@
+Adresses Litecoin générées :
+
+Index        : 0
+Adresse LTC  : LSYqEJAtrx4uXywaP1cmTuuPWiK8FGb2ix
+Clé privée   : T896jFc6VpvW6aLWULa65FodFKdVzgP1oKpCugEe6pFt4q1KGYAL
+----------------------------------------
+Index        : 1
+Adresse LTC  : LZMdL5rqJ1chfM3St9sH4tzYnefMyCXYJy
+Clé privée   : T5U2Pxge2rkguG9QNuiu6im69fm1D2xUMkf1gAqQUWWxL4wQNkps
+----------------------------------------
+Index        : 2
+Adresse LTC  : LiSfsShKkDdXx39vuCbonGJPgnYTTTTP4V
+Clé privée   : TAkd1D4UbRqjqbK1FwLmSk2YXBnvvg54oferP4DBg3bUKrHocowe
+----------------------------------------
+Index        : 3
+Adresse LTC  : LfvXB7nHj56x715fhJyvfguD7LFPiN3igp
+Clé privée   : T4WditQQe6bjrF74FaZjyyfqscNiGo5mfTpG2fGodbGaWxcZSMSE
+----------------------------------------
+Index        : 4
+Adresse LTC  : LLyK7RPab5V14NVoiRiR6zckWzuJw9566C
+Clé privée   : T5KYnkxNbnxC1xCaf3HscNfmRdRAr7pmjDY1vgU4jPmq8BGcjj2C
+----------------------------------------
+(myenv) tiana@tiana-H81MLC:~/Bureau/dev/crypto generator$ 
